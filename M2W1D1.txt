@@ -1,0 +1,8 @@
+M2W1D1:
+
+1. Un algoritmo è una serie di passaggi definiti necessari alla risoluzione di un problema: se devi cucinare qualcosa devi avere una ricetta, hai bisongo degli ingredienti che devi cucinare e preparare in un determinato modo e ordine se vuoi mangiare il piatto che desideri.
+
+2. Una variabile è un elemento che permette di conservare e gestire delle informazioni all'interno di un programma, le variabili hanno un valore, appunto, variabile che può essere deciso da te e cambiare durante l'esecuzione del programma.
+Per cucinare un qualcosa hai bisono degli ingredenti necessari, ingredienti che cambiano in base alla ricetta e che se uniti creano nuovi ingredienti, le variabili funzionano alla stessa maniera, solo che non le puoi mangiare.
+
+3.undefined e null sono due cose diverse, di base quando viene dichiarata una variabile non ha valore finche non viene specificato dal programmatore o da qualche parte del programma, se non viene dato nessun valore quella variabile è undefined, restituirà undefined anche se viene eseguta tramite console. Con null vuol dire invece che la variabile non ha nessun valore che sia numerico o testuale e viene dichiarato direttametne dal programmatore, infatti quando eseguito da console non restituirà nulla.
